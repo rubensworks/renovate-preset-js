@@ -2,12 +2,12 @@
   "extends": [
     "config:base"
   ],
-  "description": "My personal preferences for Renovate. It will make sure that major updates always go via a PR, and other changes will be auto-merged if tests pass. Dependencies will be checked every morning."
+  "description": "My personal preferences for Renovate. It will make sure that major updates always go via a PR, and other changes will be auto-merged if tests pass. Dependencies will be checked every morning.",
 
   "prCreation": "not-pending",
   "stabilityDays": 1,
   "statusCheckVerify": true,
-  "schedule": "after 6am and before 7am every weekday"
+  "schedule": "after 6am and before 7am every weekday",
   "timezone": "Europe/Brussels",
   "unicodeEmoji": true,
   "vulnerabilityAlerts": {
@@ -24,7 +24,7 @@
       "automerge": true,
       "automergeType": "branch"
     }
-  ]
+  ],
   
   "devDependencies": {
     "rangeStrategy": "replace"
