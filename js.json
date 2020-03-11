@@ -7,7 +7,7 @@
   "prCreation": "not-pending",
   "stabilityDays": 1,
   "statusCheckVerify": true,
-  "schedule": "after 6am and before 7am every weekday",
+  "schedule": "before 7am every weekday",
   "timezone": "Europe/Brussels",
   "unicodeEmoji": true,
   "vulnerabilityAlerts": {
