@@ -10,7 +10,7 @@ To use this, create `renovate.json` in your repo with the following contents:
 ```json
 {
   "extends": [
-    "github>rubensworks/renovate-presets:js" 
+    "github>rubensworks/renovate-presets:js"
   ]
 }
 ```
