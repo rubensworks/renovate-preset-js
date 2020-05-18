@@ -27,6 +27,10 @@
       "updateTypes": ["minor", "patch", "pin", "digest"],
       "automerge": true,
       "automergeType": "branch"
+    },
+    {
+      "depTypeList": ["devDependencies"],
+      "automerge": true
     }
   ],
   
