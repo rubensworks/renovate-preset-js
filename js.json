@@ -13,6 +13,9 @@
   "vulnerabilityAlerts": {
     "enabled": false
   },
+  "ignoreDeps": [
+    "eslint-config-es"
+  ],
   
   "packageRules": [
     {
