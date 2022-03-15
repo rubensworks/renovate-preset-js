@@ -14,7 +14,19 @@
     "enabled": false
   },
   "ignoreDeps": [
-    "eslint-config-es"
+    "eslint",
+    "eslint-config-es",
+    "eslint-import-resolver-typescript",
+    "eslint-plugin-eslint-comments",
+    "eslint-plugin-extended",
+    "eslint-plugin-import",
+    "eslint-plugin-jest",
+    "eslint-plugin-mocha",
+    "eslint-plugin-react",
+    "eslint-plugin-react-hooks",
+    "eslint-plugin-tsdoc",
+    "eslint-plugin-unicorn",
+    "eslint-plugin-unused-imports"
   ],
   
   "packageRules": [
