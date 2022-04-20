@@ -31,11 +31,11 @@
   
   "packageRules": [
     {
-      "sourceUrlPrefixes": ["https://github.com/comunica/comunica"],
+      "matchSourceUrlPrefixes": ["https://github.com/comunica/comunica"],
       "groupName": "Comunica monorepo packages"
     },
     {
-      "sourceUrlPrefixes": ["https://github.com/LinkedDataFragments/Server.js"],
+      "matchSourceUrlPrefixes": ["https://github.com/LinkedDataFragments/Server.js"],
       "groupName": "LDF server monorepo packages"
     },
     {
